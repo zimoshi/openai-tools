@@ -70,3 +70,7 @@ export OPENAI_API_KEY=your-key-here
 ## 📄 License
 
 MCPL
+
+## Contributing
+
+Check <a href="./CONTRIBUTING.md">CONTRIBUTING.md</a> for details.

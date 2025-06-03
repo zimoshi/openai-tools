@@ -71,6 +71,6 @@ export OPENAI_API_KEY=your-key-here
 
 MCPL
 
-## Contributing
+## 🛠️ Contributing
 
 Check <a href="./CONTRIBUTING.md">CONTRIBUTING.md</a> for details.

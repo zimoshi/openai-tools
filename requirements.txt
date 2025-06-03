@@ -1,0 +1,9 @@
+openai==1.68.2
+anyio
+distro
+httpx
+jiter
+pydantic
+sniffio
+tqdm
+typing-extensions
